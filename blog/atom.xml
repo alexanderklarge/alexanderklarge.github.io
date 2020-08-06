@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://alexanderklarge.github.io/blog</id>
 	<author>
-		<name>Alexander K LArge</name>
+		<name>Alexander K Large</name>
 		<email>alexanderklarge@gmail.com</email>
 	</author>
 
